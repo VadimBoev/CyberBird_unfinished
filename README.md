@@ -6,4 +6,4 @@ I sincerely hope that this code will be useful to someone. Whether it will be us
   
 The source code is provided "as is" without corrections.
   
-![](https://raw.githubusercontent.com/VadimBoev/CyberBird_unfinished/main/screen1.png =250x250)
+![test](https://raw.githubusercontent.com/VadimBoev/CyberBird_unfinished/main/screen1.png =250x250 "test")
