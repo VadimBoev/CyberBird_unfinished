@@ -6,4 +6,5 @@ I sincerely hope that this code will be useful to someone. Whether it will be us
   
 The source code is provided "as is" without corrections.
   
-![test](https://raw.githubusercontent.com/VadimBoev/CyberBird_unfinished/main/screen1.png "test")
+
+<img src="[http://url/image.png](https://raw.githubusercontent.com/VadimBoev/CyberBird_unfinished/main/screen1.png)" height="60" width="60" >
